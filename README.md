@@ -96,9 +96,4 @@ Alerting: if statements compare the calculated usage values against the configur
 
 Pause: sleep pauses the script for SLEEP_INTERVAL seconds before the next loop iteration.
 
-Save this content as `README.md` in the same directory as your `system_monitor.sh` script.
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
+
