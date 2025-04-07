@@ -1,4 +1,4 @@
-Okay, here is a README.md file based on the information you provided. This file explains the script, how to set it up, and how to use it, suitable for placing in a Git repository or alongside the script file.
+
 
 # Linux System Monitor Script
 
